@@ -1,3 +1,13 @@
+pip install opencv-python
+pip install matplotlib
+pip install numpy
+pip install imutils
+pip install easyocr
+pip install streamlit
+
+
+
+
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
